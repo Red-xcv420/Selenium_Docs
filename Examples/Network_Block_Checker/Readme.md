@@ -3,8 +3,8 @@ This Script Uses realitive chrome driver finder, Relative Chrome Driver Finder, 
 Example Setup 
 
 - Folder
-  >ChromeDriver
-  >Script.py
+  ChromeDriver
+  Script.py
 
 This Script Has Simple Detection Avoidance (In NO Means A Undectable Script Just Some Examples To Start)
 This Script Has A Logger Disable Example
