@@ -9,7 +9,7 @@ Example Setup
 ```
 This Script Has Simple Detection Avoidance (In NO Means A Undectable Script Just Some Examples To Start)
 This Script Has A Logger Disable Example
-This Script Shows Off driver.current_url Yo Find Link Of Current Page
+This Script Shows Off driver.current_url To Find Link Of Current Page
 This Script Uses Simple Regex
 This Script Uses Basic EC With Sleep
 This Script Is Written To Current Date
