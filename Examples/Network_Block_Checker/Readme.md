@@ -2,7 +2,7 @@ This Script Uses realitive chrome driver finder, Relative Chrome Driver Finder, 
 
 Example Setup 
 
-- Folder
+Folder
   ChromeDriver
   Script.py
 
