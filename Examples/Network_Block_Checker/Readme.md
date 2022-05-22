@@ -1,4 +1,4 @@
-This Script Uses realitive chrome driver finder, Relative Chrome Driver Finder, (For Ease In Making Script Into a Exe Without The Issue Of It Not Finding The Driver) 
+This Script Uses Relative Chrome Driver Finder, (For Ease In Making Script Into a Exe Without The Issue Of It Not Finding The Driver) 
 
 Example Setup 
 ```
