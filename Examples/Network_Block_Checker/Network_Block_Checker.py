@@ -1,4 +1,4 @@
-#Example Script Network Block Checker Selenium - 
+#Example Script Network Block Checker Selenium - Landen Fisher - 4/23/2022
 
 #Import OS
 import os
