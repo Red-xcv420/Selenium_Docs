@@ -7,7 +7,6 @@ Site: https://webscraper.io/test-sites/tables
 #Import OS
 
 import os
-from tkinter import X
 
 #Import Selenium
 
