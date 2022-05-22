@@ -14,5 +14,11 @@ This Script Uses Simple Regex
 This Script Uses Basic EC
 This Script Is Written To Current Date
 ```
+How It Works: 
+![Xpath](https://user-images.githubusercontent.com/88535395/169719516-19ba7689-414a-45fd-8e14-b28925021051.png)
+Yellow: Shows What Element Goes To What On The Page
+Green: Where The Script Starts
+Red: Where The Script Stops
+
 Note:
 Driver That Is Included Is For Chrome Version 100.0.4896.60
