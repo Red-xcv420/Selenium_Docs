@@ -12,10 +12,10 @@ Todo:
 <br />
 
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Selenium Docs</h3>
 
   <p align="center">
-    project_description
+    My Custom Docs
     <br />
     <a href="https://github.com/Red-xcv420/Selenium_Docs/"><strong>Explore the docs »</strong></a>
     <br />
