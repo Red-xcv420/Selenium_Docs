@@ -1,6 +1,6 @@
 <h3>Todo: </h3>
 <ol>
-  <li>1. Add Use Of Webdriver_Manager</li>
+  <li>Add Use Of Webdriver_Manager</li>
 </ol>
 
 
