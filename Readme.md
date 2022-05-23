@@ -1,10 +1,3 @@
-<h3>Todo: </h3>
-<ol>
-  <li>Add Use Of Webdriver_Manager</li>
-</ol>
-
-
-
 <div id="top"></div>
 
 
@@ -14,6 +7,11 @@
 
 
 <h1 align="center">Selenium Docs</h1>
+<h3>Todo: </h3>
+<ol>
+  <li>Add Use Of Webdriver_Manager</li>
+</ol>
+
   <br />
   <p align="center">
     <br />
