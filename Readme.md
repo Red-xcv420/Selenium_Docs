@@ -8,7 +8,7 @@
 <h1 align="center">Selenium Docs</h1>
   <br />
   <p align="center">
-    <h2> My Custom Docs <h2>
+    <h2> My Custom Docs </h2>
     <br />
     <br />
     <a href="https://github.com/Red-xcv420/Selenium_Docs/"><strong>Explore the docs »</strong></a>
