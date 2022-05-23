@@ -5,7 +5,7 @@
 <br />
 
 
-<h3 align="center">Selenium Docs</h3>
+<h1 align="center">Selenium Docs</h1>
 
   <p align="center">
     My Custom Docs
