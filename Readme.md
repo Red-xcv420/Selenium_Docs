@@ -1,10 +1,3 @@
-# Selenium_Docs
-My Own Custom Docs
-
-Todo: 
-```
-1. Add Use Of Webdriver_Manager
-```
 <div id="top"></div>
 
 
@@ -103,3 +96,8 @@ Project Link: [https://github.com/Red-xcv420/Selenium_Docs](https://github.com/R
 * [QAT](https://discord.gg/bq3AcfdT6z)
 * [Selenium_Support](https://discord.gg/XJm8cWXuYN)
 
+
+Todo: 
+```
+1. Add Use Of Webdriver_Manager
+```
