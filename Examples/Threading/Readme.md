@@ -26,5 +26,6 @@ Red: Where The Script Stops
 
 Note:
 Driver That Is Included Is For Chrome Version 100.0.4896.60
+
 TermColor Module Needed
 ```pip install termcolor```
