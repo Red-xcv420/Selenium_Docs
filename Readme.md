@@ -103,13 +103,3 @@ Project Link: [https://github.com/Red-xcv420/Selenium_Docs](https://github.com/R
 * [QAT](https://discord.gg/bq3AcfdT6z)
 * [Selenium_Support](https://discord.gg/XJm8cWXuYN)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-[contributors-shield]: https://img.shields.io/github/contributors/Red-xcv420/Selenium_Docs/.svg?
-[contributors-url]: https://github.com/Red-xcv420/Selenium_Docs/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Red-xcv420/Selenium_Docs/.svg?
-[forks-url]: https://github.com/Red-xcv420/Selenium_Docs/network/members
-[stars-shield]: https://img.shields.io/github/stars/Red-xcv420/Selenium_Docs/.svg?
-[stars-url]: https://github.com/Red-xcv420/Selenium_Docs/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Red-xcv420/Selenium_Docs/.svg?
-[issues-url]: https://github.com/Red-xcv420/Selenium_Docs/issues
-[license-shield]: https://img.shields.io/github/license/Red-xcv420/Selenium_Docs/.svg?
