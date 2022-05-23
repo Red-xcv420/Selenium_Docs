@@ -1,4 +1,8 @@
 <div id="top"></div>
+Todo: 
+```
+1. Add Use Of Webdriver_Manager
+```
 
 
 <!-- PROJECT LOGO -->
@@ -94,9 +98,3 @@ Project Link: [https://github.com/Red-xcv420/Selenium_Docs](https://github.com/R
 
 * [QAT](https://discord.gg/bq3AcfdT6z)
 * [Selenium_Support](https://discord.gg/XJm8cWXuYN)
-
-
-Todo: 
-```
-1. Add Use Of Webdriver_Manager
-```
