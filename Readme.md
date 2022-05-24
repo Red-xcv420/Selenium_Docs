@@ -102,3 +102,4 @@ Project Link: [https://github.com/Red-xcv420/Selenium_Docs](https://github.com/R
 
 * [QAT](https://discord.gg/bq3AcfdT6z)
 * [Selenium_Support](https://discord.gg/XJm8cWXuYN)
+* [Practical Python](https://discord.gg/wKnpSavpf6)
