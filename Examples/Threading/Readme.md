@@ -11,7 +11,7 @@ This Script Has Simple Detection Avoidance (In NO Means A Undectable Script Just
 This Script Has A Logger Disable Example
 This Script Uses Basic EC
 This Script Is Written To Current Date
-This Script Uses Mltiprocessing For Faster Speeds
+This Script Uses Multiprocessing For Faster Speeds
 ```
 How It Works: 
 ![Xpath](https://user-images.githubusercontent.com/88535395/169719516-19ba7689-414a-45fd-8e14-b28925021051.png)
