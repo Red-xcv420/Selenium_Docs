@@ -83,7 +83,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-None Have Fun
+Under MIT
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
