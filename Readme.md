@@ -12,6 +12,7 @@
   <li>Add Use Of Webdriver_Manager</li>
   <li>Update To Selenium 4</li>
   <li>Make Cookie Injection Example (Add Undetect Examples In This)</li>
+  <li>Ms Human Like Response Function</li>
 </ol>
 
   <br />
