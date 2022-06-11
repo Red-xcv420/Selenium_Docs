@@ -2,4 +2,4 @@
 """This can be ignored or disabled without harm."""
 
 #Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
-"""This can be ignored or disabled without harm.""
+"""This can be ignored or disabled without harm."""
